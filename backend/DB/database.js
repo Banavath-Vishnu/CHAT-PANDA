@@ -1,6 +1,6 @@
 import mongoose from 'mongoose'
 
-const URL = "mongodb+srv://vishnubhanavath:vicky@chatpanda.mw2wu4d.mongodb.net/?retryWrites=true&w=majority&appName=ChatPanda"
+const URL = "YOUR_MONGO_URL"
 
 const connection = () => {
     mongoose.connect(URL).then(() => {
