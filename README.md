@@ -60,15 +60,6 @@ To deploy the application:
 - **AI Chatbot Support** for automated responses.
 - **Better Notification System** for instant updates.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-1. Fork the repository.
-2. Create your feature branch: `git checkout -b feature-branch`.
-3. Commit your changes: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature-branch`.
-5. Submit a pull request.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
