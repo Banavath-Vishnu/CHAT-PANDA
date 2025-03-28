@@ -20,6 +20,7 @@ Chat Panda is a real-time chat application that allows users to connect, communi
 - **Deployment**: Vercel (Frontend), Render/Heroku (Backend)
 
 ## Installation
+- create a MongoDB url and paste it in DB.js
 
 ### Prerequisites
 Make sure you have the following installed:
